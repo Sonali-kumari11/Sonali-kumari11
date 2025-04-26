@@ -8,24 +8,32 @@
 🔹 Research publications in Medical Imaging (Glioblastoma Detection) and Financial Machine Learning (Loan Eligibility Prediction).
 🔹 Passionate about open-source collaboration, innovation in AI/ML, and solving real-world problems with technology.
 
-🛠️ Skills
-Programming: Python, SQL
+## 🚀 Tech Stack
 
-Machine Learning: Supervised, Unsupervised Learning
+<div align="center">
 
-Deep Learning: Keras, TensorFlow, Neural Networks, Transfer Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-2C6BED?style=for-the-badge&logo=seaborn&logoColor=white" />
+<br>
 
-Data Analysis: Pandas, NumPy
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<br>
 
-Data Visualization: Matplotlib, Seaborn
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<br>
 
-Cloud: (Basic exposure) GCP, AWS
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 
-Version Control: Git, GitHub
-
-Prompt Engineering: Gemini, AI Studio
-
-Tools: Jupyter Notebook, Google Colab, Postman, Swagger
+</div>
 
 📚 Research Publications
 Efficient Technique for Glioblastoma Multiforme Detection: Deep Learning or Transfer Learning – IEEE, 2023
