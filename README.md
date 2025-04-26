@@ -1,7 +1,5 @@
 ## Hi there, I'm Sonali Kumari👋
 
-🧠 AI/ML Enthusiast | Open Source Contributor | Passionate about Deep Learning & Data Science
-
 ## 🚀 Tech Stack
 
 <div align="center">
