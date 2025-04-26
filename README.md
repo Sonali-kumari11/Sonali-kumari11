@@ -1,4 +1,5 @@
-## Hi there, I'm Sonali Kumari👋
+### Hi there, I'm Sonali Kumari👋
+    ![My GIF](welcome_typing.gif)
 
 ## 🚀 Tech Stack
 
