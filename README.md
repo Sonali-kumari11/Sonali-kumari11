@@ -18,7 +18,7 @@ AI Engineer | Data Scientist | Python & ML Enthusiast
   *Global Journal of Modeling and Intelligent Computing (GJMIC), January 2023*  
   Published research comparing machine learning models for loan eligibility prediction, offering insights into financial decision-making.
 
-👨💻 Client Contributions (Tech Mahindra / Google project)
+## 👨💻 Client Contributions (Tech Mahindra / Google project)
 - I contribute to Google client projects through my role at Tech Mahindra.
 - Please visit my second GitHub profile to see client-related work: https://github.com/sonali-kumari1
 
